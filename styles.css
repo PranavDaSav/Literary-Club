@@ -1,4 +1,39 @@
- .center {
-   text-align: center;
-   
- }
+
+p.one {
+
+text-align: center;
+  border-style: solid;
+  max-width:1693px;
+  margin:inherit;
+  /* margin-top: 10px;
+  margin-left: 6px;
+  margin-bottom:10px;
+  margin-right: 4px; */
+  border-width: 15px;
+  border-color: Violet;
+  border-radius: 15px;
+  outline-style: outset;
+  outline-color: red;
+}
+
+h1.two {
+  max-height:120px;
+  max-width: 100%;
+  background-color: dodgerblue;
+  text-align: center;
+  font-size: 320%;
+}
+
+a {
+  text-decoration: none;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  line-height: 1.0;
+}
+
+
+
+/* img.one {
+  max-width: 55%;
+  outline: Violet;
+} */
